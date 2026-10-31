@@ -1112,15 +1112,15 @@ img {
 
 ## OUTPUT
 
-output_img/image.png
+![output_img/image.png](output_img/image.png)
 
-output_img/image-1.png
+![output_img/image-1.png](output_img/image-1.png)
 
-output_img/image-2.png
+![output_img/image-2.png](output_img/image-2.png)
 
-output_img/image-3.png
+![output_img/image-3.png](output_img/image-3.png)
 
-output_img/image-4.png
+![output_img/image-4.png](output_img/image-4.png)
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
